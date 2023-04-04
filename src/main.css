@@ -1,0 +1,105 @@
+#main{
+    width: 400px;
+    height: max-content;
+    /* height: +25px; */
+    margin-top: 100px;
+    margin-left: 550px;
+    border: 1px;
+    /* background-color: aquamarine; */
+    border-radius: 10px;
+    padding-bottom: 0.1px;
+    background-image: linear-gradient(to bottom left,violet,indigo,blue,yellow,orange,red);
+    
+    
+}
+#heading{
+    display: inline-block;
+    font-size: xx-large;
+    /* font-family: cursive; */
+}
+#input{
+    height: 30px;
+    width: 300px;
+    border: 0px solid white;
+    box-sizing: border-box;
+    border-radius: 15px;
+    /* font-family: cursive; */
+    font-weight: lighter;
+    font-size: x-large;
+    padding-left: 20px;
+    font-size:large;
+}
+#line{
+    width: 150px;
+    /* margin-left: px; */
+    height: 0.3px;
+    background-color: white;
+}
+#heading2{
+    margin-top: 30px;
+    width: 300px;
+    margin-left: 50px;
+    height: fit-content;
+    border: 0px;
+    border-radius: 25px;
+    /* background-color: aliceblue; */
+}
+#place{
+    display: inline-block;
+    margin-top: -50px;
+}
+#tempDescription{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+#temp{
+    margin-top: -40px;
+    margin-left: 20px;
+    font-size: xxx-large;
+    display: inline-block;
+    font-weight: lighter;
+    display: inline-block;
+
+}
+#description{
+    width: 50px;
+    margin-left: 60px;
+    display: inline-block;
+    display: inline-block;
+   font-weight: bold;
+   
+}
+#minMax{
+   margin-left: 200px;
+   margin-top: -45px;
+}
+#feel{
+    
+    /* display: inline-block; */
+    float: left;
+}
+#feelsLike{
+    display: inline-block;
+    margin-top: -30px;
+    margin-left: 30px;
+    font-size: xxx-large;
+    font-weight: lighter;
+}
+#humid{
+    /* display: inline-block; */
+    /* float: right; */
+    margin-left: 180px;
+    /* margin-bottom: 25px; */
+}
+#humidity{
+    display: inline-block;
+    margin-top: -30px;
+    font-size: xxx-large;
+    font-weight: lighter;
+}
+#icon{
+    width: 100px;
+    height: 100px;
+    margin-top: -30px;
+}
